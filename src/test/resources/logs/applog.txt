@@ -1,0 +1,32 @@
+INFO    2024-08-11 19:18:59,374 [main] com.testProject.base.Testbase  - config file loaded to read the Configuration values
+INFO    2024-08-11 19:18:59,377 [main] com.testProject.base.Testbase  - Object Repository file loaded to read the object locators values
+INFO    2024-08-11 19:19:04,422 [main] com.testProject.base.Testbase  - Navigated to url https://magento.softwaretestingboard.com/
+INFO    2024-08-11 19:19:04,467 [main] com.testProject.base.Testbase  - Windows miximized
+INFO    2024-08-11 19:19:05,503 [main] com.testProject.base.Testbase  - Clicked on Creat Account Button
+INFO    2024-08-11 19:19:05,726 [main] com.testProject.base.Testbase  - Typed the first Name
+INFO    2024-08-11 19:19:05,872 [main] com.testProject.base.Testbase  - Typed the Last Name
+INFO    2024-08-11 19:19:06,092 [main] com.testProject.base.Testbase  - Typed the email
+INFO    2024-08-11 19:19:06,316 [main] com.testProject.base.Testbase  - Typed the Password
+INFO    2024-08-11 19:19:06,490 [main] com.testProject.base.Testbase  - Confirm password by retyping
+INFO    2024-08-11 19:19:10,845 [main] com.testProject.base.Testbase  - Is the Element there? false
+INFO    2024-08-11 19:19:12,908 [main] com.testProject.base.Testbase  - Account Already Exists,try another email
+INFO    2024-08-11 19:19:14,613 [main] com.testProject.base.Testbase  - Clicked on Login Title link
+INFO    2024-08-11 19:19:14,736 [main] com.testProject.base.Testbase  - Typed in the Username
+INFO    2024-08-11 19:19:14,821 [main] com.testProject.base.Testbase  - Typed in the Password
+INFO    2024-08-11 19:19:17,338 [main] com.testProject.base.Testbase  - Clicked on Sign in button
+INFO    2024-08-11 19:19:18,467 [main] com.testProject.base.Testbase  - Is the Welcome Title visible?
+INFO    2024-08-11 19:19:18,467 [main] com.testProject.base.Testbase  - Yes, Welcome Title is visible
+INFO    2024-08-11 19:19:18,467 [main] com.testProject.base.Testbase  - Sign in Successful
+INFO    2024-08-11 19:19:21,904 [main] com.testProject.base.Testbase  - Clicked on Login Title link
+INFO    2024-08-11 19:19:22,113 [main] com.testProject.base.Testbase  - Typed in the Username
+INFO    2024-08-11 19:19:22,260 [main] com.testProject.base.Testbase  - Typed in the Password
+INFO    2024-08-11 19:19:24,054 [main] com.testProject.base.Testbase  - Clicked on Sign in button
+INFO    2024-08-11 19:19:26,077 [main] com.testProject.base.Testbase  - Welcome Title is not visible
+INFO    2024-08-11 19:19:26,077 [main] com.testProject.base.Testbase  - Sign in not Successful, Please check username or Password
+INFO    2024-08-11 19:19:27,150 [main] com.testProject.base.Testbase  - Clicked on Login Title link
+INFO    2024-08-11 19:19:27,271 [main] com.testProject.base.Testbase  - Typed in the Username
+INFO    2024-08-11 19:19:27,360 [main] com.testProject.base.Testbase  - Typed in the Password
+INFO    2024-08-11 19:19:29,130 [main] com.testProject.base.Testbase  - Clicked on Sign in button
+INFO    2024-08-11 19:19:30,303 [main] com.testProject.base.Testbase  - Is the Welcome Title visible?
+INFO    2024-08-11 19:19:30,303 [main] com.testProject.base.Testbase  - Yes, Welcome Title is visible
+INFO    2024-08-11 19:19:30,303 [main] com.testProject.base.Testbase  - Sign in Successful
